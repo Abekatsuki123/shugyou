@@ -4,6 +4,8 @@
 
 新潟県小千谷市生まれ。中学1年生の夏まで長岡市で育ち、それ以降は小千谷に住む
 
+現在は新潟市に住み、大学2年生である
+
 ```markdown
  私の趣味 
 
@@ -26,10 +28,10 @@
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### 2年次インターンシップ先
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Abekatsuki123/shugyou/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+株式会社人工知能研究所
 
-### Support or Contact
+### 一言
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+PS5が早く欲しい
