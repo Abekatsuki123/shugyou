@@ -17,9 +17,11 @@
  2,カレー
  3,餃子
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+　おススメ漫画
+ 
+ 1,ジョジョ
+ 2,ハンターハンター
+ 3,漢塾
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
