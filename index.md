@@ -1,6 +1,6 @@
-## 私の自己紹介ページ##
+## 私の自己紹介ページ ##
 
-### プロフィール###
+### プロフィール ###
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
