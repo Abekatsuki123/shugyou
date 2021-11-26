@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
-私の自己紹介ページ
-### Markdown
+## 私の自己紹介ページ##
+
+### プロフィール###
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
