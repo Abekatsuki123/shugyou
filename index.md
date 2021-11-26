@@ -5,11 +5,11 @@
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-私の趣味
+## 私の趣味 ##
 
-# 釣り
-## ゲーム
-### 昼寝
+ *釣り*
+ *ゲーム*
+ *昼寝*
 
 - Bulleted
 - List
