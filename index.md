@@ -1,8 +1,8 @@
-## 私の自己紹介ページ ##
+## 私の自己紹介ページ 
 
 ### プロフィール ###
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+新潟県小千谷市生まれ、中学1年生の夏まで長岡市で育ちそれ以降は小千谷に住む
 
 ```markdown
 ## 私の趣味 ##
