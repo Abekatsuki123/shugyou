@@ -6,6 +6,8 @@
 
 現在は新潟市に住み、大学2年生である
 
+<img src="https://user-images.githubusercontent.com/95011651/143997247-6435d653-01f9-4a5d-a257-e46352116247.png" width="350px">
+
 ```markdown
  **私の趣味** 
 
@@ -31,8 +33,6 @@
   -[数字で見るドッカンバトル](https://xn--n9jvd7d3d0ad5cwnpcu694dohxad89g.com/)  
   -[De速](http://de-baystars.doorblog.jp/)
   
- ![キングスライム](https://user-images.githubusercontent.com/95011651/143995011-ac245790-de50-48fe-8a65-76f44e7aa221.jpg)
-
 
 ### 2年次インターンシップ感想
 
