@@ -25,6 +25,13 @@
  2,ハンターハンター
  3,漢塾
 ```
+```markdown
+
+**オススメのサイト**
+
+ - [数字で見るドッカンバトル](https://xn--n9jvd7d3d0ad5cwnpcu694dohxad89g.com/)
+ - [De速](http://de-baystars.doorblog.jp/)
+```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
@@ -36,4 +43,3 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 PS5が早く欲しい
 
-[私のおススメゲームサイト](https://xn--n9jvd7d3d0ad5cwnpcu694dohxad89g.com/).
