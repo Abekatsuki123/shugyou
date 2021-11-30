@@ -30,6 +30,8 @@
 
   -[数字で見るドッカンバトル](https://xn--n9jvd7d3d0ad5cwnpcu694dohxad89g.com/)  
   -[De速](http://de-baystars.doorblog.jp/)
+  
+  ![This is an image](file:///C:/Users/user/Pictures/%E3%82%AD%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%A0.jpg)
 
 
 ### 2年次インターンシップ感想
