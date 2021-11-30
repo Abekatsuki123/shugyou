@@ -1,4 +1,4 @@
-## 私の自己紹介ページ 
+## 私の自己紹介ページ ## 
 
 ### プロフィール ###
 
@@ -28,8 +28,8 @@
 
  **オススメのサイト**
 
-  -[数字で見るドッカンバトル](https://xn--n9jvd7d3d0ad5cwnpcu694dohxad89g.com/)  
-  -[De速](http://de-baystars.doorblog.jp/)
+- [数字で見るドッカンバトル](https://xn--n9jvd7d3d0ad5cwnpcu694dohxad89g.com/)  
+- [De速](http://de-baystars.doorblog.jp/)
   
 
 ### 2年次インターンシップ感想
@@ -38,5 +38,6 @@
 
 ### 一言
 
-PS5が早く欲しい
+PS5が早く欲しい  
+<img src="https://user-images.githubusercontent.com/95011651/143999296-b3623d72-9c5f-4b18-9e5c-81a047b2a74a.jpg" width="400px">
 
