@@ -8,12 +8,11 @@
 
 <img src="https://user-images.githubusercontent.com/95011651/143997247-6435d653-01f9-4a5d-a257-e46352116247.png" width="350px">
 
-```markdown
  **私の趣味** 
 
- - 釣り
- - ゲーム
- - 昼寝
+ - 釣り&#x1f3a3;
+ - ゲーム&#x1f3ae;
+ - 昼寝&#x1f4a4;
 
  **好きな食べ物ランキング**
  
@@ -26,9 +25,8 @@
  1,ジョジョ
  2,ハンターハンター
  3,漢塾
-```
 
-### オススメのサイト
+ **オススメのサイト
 
   -[数字で見るドッカンバトル](https://xn--n9jvd7d3d0ad5cwnpcu694dohxad89g.com/)  
   -[De速](http://de-baystars.doorblog.jp/)
