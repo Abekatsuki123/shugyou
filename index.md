@@ -35,3 +35,5 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 ### 一言
 
 PS5が早く欲しい
+
+[私のおススメゲームサイト](https://xn--n9jvd7d3d0ad5cwnpcu694dohxad89g.com/).
